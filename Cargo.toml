@@ -2,5 +2,7 @@
 name = "findforce"
 version = "0.1.0"
 edition = "2024"
+description = "Findforce SDK for Rust"
+license-file = "LICENSE"
 
 [dependencies]
